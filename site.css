@@ -16,6 +16,7 @@ body{
 
 #content{
 	padding-top: 30px;
+	padding-bottom: 30px;
 	padding-left: 30px;
 	padding-right: 30px;
 	 font-family: "Tahoma";
@@ -30,7 +31,7 @@ body{
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   width: 30rem;
-  height: 35rem;
+  height: 34rem;
   opacity: .6;
   
 }
