@@ -32,6 +32,6 @@ body{
   transform: translate(-50%, -50%);
   width: 30rem;
   height: 34rem;
-  opacity: .6;
+  background: rgba(0, 0, 0, 0.6);
   
 }
