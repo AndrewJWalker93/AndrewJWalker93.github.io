@@ -38,8 +38,9 @@ color: white;
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 600px) {
   .card{
-	height: 20vh;
+	height: 80vh;
 	width: 80vw;
+	top: 20%;
 }
 
 	h1 {
